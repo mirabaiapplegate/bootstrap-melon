@@ -1,0 +1,19 @@
+#praise {
+    padding: 10px;
+}
+
+#melon-table {
+    padding-top: 15px;
+}
+
+.navbar {
+    background-color: #9BC53D;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
